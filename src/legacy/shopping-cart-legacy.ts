@@ -55,5 +55,3 @@ export class ShoppingCartLegacy {
     this._items.length = 0;
   }
 }
-
-const shoppingCart = new ShoppingCart();
